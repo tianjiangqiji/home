@@ -72,7 +72,7 @@ const introductionElement = createElementStyle(
 const perfectElement = createElementStyle(
   "div",
   "position:absolute;opacity:0;transition:opacity 2s",
-  "Double Score"
+  "双倍得分！"
 );
 const restartButton = createElementStyle(
   "button",
